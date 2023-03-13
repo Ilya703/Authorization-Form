@@ -1,0 +1,76 @@
+body {
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+div, p, input, button, form, span, a, ul, li {
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+.form__container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+}
+
+.table__container {
+    flex-direction: column;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-button, .form_button {
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.form input {
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.ok_result, .error_result {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hide {
+    display: none;
+}
+
+.status {
+    text-align: center;
+}
+
+th {
+    width: 120px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+table {
+    max-width: 900px;
+}
+
+thead th {
+    background: ghostwhite;
+}
+
+.table_button {
+    width: 280px;
+    height: 40px;
+    margin-top: 40px;
+}
