@@ -1,4 +1,4 @@
-# Authorization-Form 🔐
+# Authorization form 🔐
 
 The Authorization-Form project is a JavaScript authorization form. It was developed as a prototype for Inventory project
 
