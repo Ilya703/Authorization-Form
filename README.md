@@ -1,6 +1,11 @@
 # Authorization-Form 🔐
 
-The Authorization-Form project is a JavaScript authorization form. It was developed as a prototype for Inventory project 
+The Authorization-Form project is a JavaScript authorization form. It was developed as a prototype for Inventory project
+
+Testing data:
+* login: admin
+* password: 111111
+* workspace_id: 2
 
 ### 🌐 [Site deployment](https://ilya703.github.io/Authorization-Form/)
 
